@@ -1,5 +1,15 @@
 # face-classification
-A Computer Vision and Machine Learning model that can detect the presence of two different persons.
+An Image Classification model that can detect the presence of me and my dorm mate.
+
+Trained with more than 1600 datasets
+Tested with about 500 datasets
+Accuracy = 100%
+
+![image](https://user-images.githubusercontent.com/119089252/228238460-3ee140cf-5f60-4a10-8279-feb531a63f4c.png)
+![image](https://user-images.githubusercontent.com/119089252/228238586-d18637e7-6854-42c1-a9d8-c0a8cc0f59d0.png)
+
+![image](https://user-images.githubusercontent.com/119089252/228238941-9ed03437-2a79-4f2b-a3a0-9fc7d608ad0c.png)
+
 
 # Exported dataset for Kal / face-classification
 
