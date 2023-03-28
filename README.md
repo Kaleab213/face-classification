@@ -1,5 +1,5 @@
 # face-classification
-An Image Classification model that can detect the presence of me and my dorm mate.
+An Image Classification model that can classify faces.
 
 Trained with more than 1600 datasets  
 Tested with about 500 datasets  
