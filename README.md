@@ -3,7 +3,6 @@ A Computer Vision Image Classification model that can classify faces.
 
 Trained with more than 1600 datasets  
 Tested with about 500 datasets  
-Accuracy = 100%  
 
 ![image](https://user-images.githubusercontent.com/119089252/228238460-3ee140cf-5f60-4a10-8279-feb531a63f4c.png)
 ![image](https://user-images.githubusercontent.com/119089252/228238586-d18637e7-6854-42c1-a9d8-c0a8cc0f59d0.png)
